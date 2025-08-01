@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "username": "bartek880",
+    "email": "bartek0@example.com",
+    "password_hash": "hashed_password_0",
+    "age": 33,
+    "gender": "female"
+  },
+  {
+    "_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "username": "janek295",
+    "email": "janek1@example.com",
+    "password_hash": "hashed_password_1",
+    "age": 45,
+    "gender": "female"
+  },
+  {
+    "_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "username": "gosia251",
+    "email": "gosia2@example.com",
+    "password_hash": "hashed_password_2",
+    "age": 23,
+    "gender": "male"
+  },
+  {
+    "_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "username": "ania661",
+    "email": "ania3@example.com",
+    "password_hash": "hashed_password_3",
+    "age": 42,
+    "gender": "female"
+  },
+  {
+    "_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "username": "kasia512",
+    "email": "kasia4@example.com",
+    "password_hash": "hashed_password_4",
+    "age": 31,
+    "gender": "female"
+  },
+  {
+    "_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "username": "marek454",
+    "email": "marek5@example.com",
+    "password_hash": "hashed_password_5",
+    "age": 43,
+    "gender": "male"
+  },
+  {
+    "_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "username": "kasia866",
+    "email": "kasia6@example.com",
+    "password_hash": "hashed_password_6",
+    "age": 38,
+    "gender": "male"
+  },
+  {
+    "_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "username": "janek168",
+    "email": "janek7@example.com",
+    "password_hash": "hashed_password_7",
+    "age": 26,
+    "gender": "male"
+  },
+  {
+    "_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "username": "krzysiek612",
+    "email": "krzysiek8@example.com",
+    "password_hash": "hashed_password_8",
+    "age": 46,
+    "gender": "male"
+  },
+  {
+    "_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "username": "zosia113",
+    "email": "zosia9@example.com",
+    "password_hash": "hashed_password_9",
+    "age": 44,
+    "gender": "male"
+  }
+]

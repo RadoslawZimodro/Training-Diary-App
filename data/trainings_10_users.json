@@ -1,0 +1,1842 @@
+[
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-06-01",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 01-06-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "dipy",
+          "sets": 3,
+          "reps": 13
+        },
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 17
+        },
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 17
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-31",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 31-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "dipy",
+          "sets": 5,
+          "reps": 12
+        },
+        {
+          "name": "dipy",
+          "sets": 3,
+          "reps": 10
+        },
+        {
+          "name": "mostek",
+          "sets": 3,
+          "reps": 15
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-30",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 30-05-2025",
+    "metrics": {
+      "duration_min": 63,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-29",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 29-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "battle rope",
+          "duration_sec": 36,
+          "rounds": 4
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 46,
+          "rounds": 3
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 60,
+          "rounds": 3
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-28",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 28-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "podciąganie australijskie",
+          "sets": 2,
+          "reps": 20
+        },
+        {
+          "name": "pompki",
+          "sets": 4,
+          "reps": 8
+        },
+        {
+          "name": "mostek",
+          "sets": 2,
+          "reps": 11
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-27",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 27-05-2025",
+    "metrics": {
+      "distance_km": 7.67,
+      "duration_min": 36.46,
+      "calories_burned": 343
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-26",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 26-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 59,
+          "rounds": 3
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 25,
+          "rounds": 5
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 46,
+          "rounds": 3
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-25",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 25-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "przysiady",
+          "sets": 3,
+          "reps": 9,
+          "weight": 100
+        },
+        {
+          "name": "przysiady",
+          "sets": 5,
+          "reps": 7,
+          "weight": 60
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-24",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 24-05-2025",
+    "metrics": {
+      "distance_km": 35.49,
+      "duration_min": 81.68
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-23",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 23-05-2025",
+    "metrics": {
+      "laps": 30,
+      "distance_m": 1307,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-22",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 22-05-2025",
+    "metrics": {
+      "laps": 40,
+      "distance_m": 1437,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "date": "2025-05-21",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 21-05-2025",
+    "metrics": {
+      "laps": 25,
+      "distance_m": 564,
+      "stroke": "freestyle"
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-06-01",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 01-06-2025",
+    "metrics": {
+      "duration_min": 84,
+      "style": "yin"
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-31",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 31-05-2025",
+    "metrics": {
+      "distance_km": 8.44,
+      "duration_min": 43.91,
+      "calories_burned": 547
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-30",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 30-05-2025",
+    "metrics": {
+      "distance_km": 3.85,
+      "duration_min": 18.44,
+      "calories_burned": 613
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-29",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 29-05-2025",
+    "metrics": {
+      "laps": 13,
+      "distance_m": 1946,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-28",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 28-05-2025",
+    "metrics": {
+      "distance_km": 32.18,
+      "duration_min": 65.61
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-27",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 27-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wyciskanie leżąc",
+          "sets": 4,
+          "reps": 8,
+          "weight": 60
+        },
+        {
+          "name": "martwy ciąg",
+          "sets": 4,
+          "reps": 12,
+          "weight": 100
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-26",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 26-05-2025",
+    "metrics": {
+      "laps": 36,
+      "distance_m": 1629,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-25",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 25-05-2025",
+    "metrics": {
+      "distance_km": 9.01,
+      "duration_min": 21.98
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-24",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 24-05-2025",
+    "metrics": {
+      "distance_km": 11.15,
+      "duration_min": 55.48,
+      "calories_burned": 542
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-23",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 23-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "mostek",
+          "sets": 5,
+          "reps": 15
+        },
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 18
+        },
+        {
+          "name": "pompki",
+          "sets": 4,
+          "reps": 19
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-22",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 22-05-2025",
+    "metrics": {
+      "distance_km": 30.6,
+      "duration_min": 63.75
+    }
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "date": "2025-05-21",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 21-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wiosłowanie",
+          "sets": 4,
+          "reps": 7,
+          "weight": 100
+        },
+        {
+          "name": "przysiady",
+          "sets": 5,
+          "reps": 11,
+          "weight": 80
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-06-01",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 01-06-2025",
+    "metrics": {
+      "distance_km": 15.13,
+      "duration_min": 38.49
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-31",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 31-05-2025",
+    "metrics": {
+      "laps": 37,
+      "distance_m": 1401,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-30",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 30-05-2025",
+    "metrics": {
+      "distance_km": 33.94,
+      "duration_min": 88.97
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-29",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 29-05-2025",
+    "metrics": {
+      "duration_min": 90,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-28",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 28-05-2025",
+    "metrics": {
+      "laps": 22,
+      "distance_m": 1283,
+      "stroke": "freestyle"
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-27",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 27-05-2025",
+    "metrics": {
+      "distance_km": 14.82,
+      "duration_min": 85.48,
+      "calories_burned": 348
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-26",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 26-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "dipy",
+          "sets": 2,
+          "reps": 18
+        },
+        {
+          "name": "pompki",
+          "sets": 4,
+          "reps": 17
+        },
+        {
+          "name": "pompki",
+          "sets": 4,
+          "reps": 16
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-25",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 25-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 51,
+          "rounds": 5
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 24,
+          "rounds": 3
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 46,
+          "rounds": 4
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-24",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 24-05-2025",
+    "metrics": {
+      "distance_km": 7.94,
+      "duration_min": 19.45
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-23",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 23-05-2025",
+    "metrics": {
+      "distance_km": 10.39,
+      "duration_min": 48.58,
+      "calories_burned": 692
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-22",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 22-05-2025",
+    "metrics": {
+      "duration_min": 80,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "date": "2025-05-21",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 21-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "przysiady",
+          "sets": 4,
+          "reps": 9,
+          "weight": 80
+        },
+        {
+          "name": "martwy ciąg",
+          "sets": 5,
+          "reps": 11,
+          "weight": 120
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-06-01",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 01-06-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "box jump",
+          "duration_sec": 50,
+          "rounds": 3
+        },
+        {
+          "name": "box jump",
+          "duration_sec": 31,
+          "rounds": 3
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 35,
+          "rounds": 5
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-31",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 31-05-2025",
+    "metrics": {
+      "distance_km": 12.94,
+      "duration_min": 66.97,
+      "calories_burned": 630
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-30",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 30-05-2025",
+    "metrics": {
+      "distance_km": 18.81,
+      "duration_min": 40.14
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-29",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 29-05-2025",
+    "metrics": {
+      "duration_min": 40,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-28",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 28-05-2025",
+    "metrics": {
+      "laps": 36,
+      "distance_m": 1442,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-27",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 27-05-2025",
+    "metrics": {
+      "distance_km": 8.97,
+      "duration_min": 55.03,
+      "calories_burned": 663
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-26",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 26-05-2025",
+    "metrics": {
+      "distance_km": 14.04,
+      "duration_min": 69.24,
+      "calories_burned": 307
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-25",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 25-05-2025",
+    "metrics": {
+      "laps": 12,
+      "distance_m": 1605,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-24",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 24-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "pompki",
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "mostek",
+          "sets": 2,
+          "reps": 13
+        },
+        {
+          "name": "dipy",
+          "sets": 2,
+          "reps": 20
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-23",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 23-05-2025",
+    "metrics": {
+      "distance_km": 7.28,
+      "duration_min": 46.84,
+      "calories_burned": 660
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-22",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 22-05-2025",
+    "metrics": {
+      "distance_km": 9.01,
+      "duration_min": 56.78,
+      "calories_burned": 638
+    }
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "date": "2025-05-21",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 21-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 16
+        },
+        {
+          "name": "dipy",
+          "sets": 2,
+          "reps": 16
+        },
+        {
+          "name": "dipy",
+          "sets": 3,
+          "reps": 15
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-06-01",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 01-06-2025",
+    "metrics": {
+      "distance_km": 8.9,
+      "duration_min": 47.67,
+      "calories_burned": 523
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-31",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 31-05-2025",
+    "metrics": {
+      "distance_km": 23.13,
+      "duration_min": 55.61
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-30",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 30-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wiosłowanie",
+          "sets": 4,
+          "reps": 8,
+          "weight": 120
+        },
+        {
+          "name": "wiosłowanie",
+          "sets": 4,
+          "reps": 8,
+          "weight": 60
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-29",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 29-05-2025",
+    "metrics": {
+      "distance_km": 14.67,
+      "duration_min": 37.78
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-28",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 28-05-2025",
+    "metrics": {
+      "distance_km": 27.73,
+      "duration_min": 57.63
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-27",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 27-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wiosłowanie",
+          "sets": 4,
+          "reps": 11,
+          "weight": 120
+        },
+        {
+          "name": "podciąganie",
+          "sets": 5,
+          "reps": 12,
+          "weight": 80
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-26",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 26-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wyciskanie leżąc",
+          "sets": 3,
+          "reps": 9,
+          "weight": 60
+        },
+        {
+          "name": "podciąganie",
+          "sets": 3,
+          "reps": 8,
+          "weight": 80
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-25",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 25-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 20
+        },
+        {
+          "name": "dipy",
+          "sets": 4,
+          "reps": 13
+        },
+        {
+          "name": "mostek",
+          "sets": 5,
+          "reps": 14
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-24",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 24-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "dipy",
+          "sets": 2,
+          "reps": 13
+        },
+        {
+          "name": "pompki",
+          "sets": 3,
+          "reps": 9
+        },
+        {
+          "name": "podciąganie australijskie",
+          "sets": 4,
+          "reps": 16
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-23",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 23-05-2025",
+    "metrics": {
+      "laps": 19,
+      "distance_m": 635,
+      "stroke": "freestyle"
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-22",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 22-05-2025",
+    "metrics": {
+      "distance_km": 7.48,
+      "duration_min": 38.13,
+      "calories_burned": 437
+    }
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "date": "2025-05-21",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 21-05-2025",
+    "metrics": {
+      "laps": 14,
+      "distance_m": 1062,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-06-01",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 01-06-2025",
+    "metrics": {
+      "distance_km": 28.56,
+      "duration_min": 72.47
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-31",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 31-05-2025",
+    "metrics": {
+      "duration_min": 36,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-30",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 30-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "podciąganie",
+          "sets": 5,
+          "reps": 9,
+          "weight": 60
+        },
+        {
+          "name": "wyciskanie leżąc",
+          "sets": 5,
+          "reps": 6,
+          "weight": 120
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-29",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 29-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "burpees",
+          "duration_sec": 33,
+          "rounds": 2
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 31,
+          "rounds": 4
+        },
+        {
+          "name": "box jump",
+          "duration_sec": 23,
+          "rounds": 4
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-28",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 28-05-2025",
+    "metrics": {
+      "distance_km": 11.92,
+      "duration_min": 69.34,
+      "calories_burned": 570
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-27",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 27-05-2025",
+    "metrics": {
+      "distance_km": 6.38,
+      "duration_min": 30.79,
+      "calories_burned": 641
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-26",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 26-05-2025",
+    "metrics": {
+      "distance_km": 17.15,
+      "duration_min": 44.41
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-25",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 25-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "przysiady",
+          "sets": 5,
+          "reps": 8,
+          "weight": 100
+        },
+        {
+          "name": "podciąganie",
+          "sets": 3,
+          "reps": 8,
+          "weight": 80
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-24",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 24-05-2025",
+    "metrics": {
+      "laps": 18,
+      "distance_m": 838,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-23",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 23-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 47,
+          "rounds": 5
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 58,
+          "rounds": 4
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 40,
+          "rounds": 2
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-22",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 22-05-2025",
+    "metrics": {
+      "duration_min": 65,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "date": "2025-05-21",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 21-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 27,
+          "rounds": 2
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 52,
+          "rounds": 4
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 31,
+          "rounds": 3
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-06-01",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 01-06-2025",
+    "metrics": {
+      "distance_km": 11.15,
+      "duration_min": 59.01,
+      "calories_burned": 588
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-31",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 31-05-2025",
+    "metrics": {
+      "duration_min": 43,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-30",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 30-05-2025",
+    "metrics": {
+      "duration_min": 90,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-29",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 29-05-2025",
+    "metrics": {
+      "duration_min": 31,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-28",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 28-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "dipy",
+          "sets": 5,
+          "reps": 17
+        },
+        {
+          "name": "mostek",
+          "sets": 4,
+          "reps": 14
+        },
+        {
+          "name": "dipy",
+          "sets": 4,
+          "reps": 15
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-27",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 27-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "box jump",
+          "duration_sec": 33,
+          "rounds": 2
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 35,
+          "rounds": 4
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 29,
+          "rounds": 4
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-26",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 26-05-2025",
+    "metrics": {
+      "distance_km": 9.29,
+      "duration_min": 53.57,
+      "calories_burned": 671
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-25",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 25-05-2025",
+    "metrics": {
+      "distance_km": 38.35,
+      "duration_min": 80.19
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-24",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 24-05-2025",
+    "metrics": {
+      "duration_min": 89,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-23",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 23-05-2025",
+    "metrics": {
+      "laps": 15,
+      "distance_m": 1973,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-22",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 22-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wyciskanie leżąc",
+          "sets": 3,
+          "reps": 9,
+          "weight": 60
+        },
+        {
+          "name": "martwy ciąg",
+          "sets": 3,
+          "reps": 8,
+          "weight": 100
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "date": "2025-05-21",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 21-05-2025",
+    "metrics": {
+      "distance_km": 5.54,
+      "duration_min": 35.1,
+      "calories_burned": 697
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-06-01",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 01-06-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "podciąganie australijskie",
+          "sets": 3,
+          "reps": 18
+        },
+        {
+          "name": "dipy",
+          "sets": 3,
+          "reps": 12
+        },
+        {
+          "name": "podciąganie australijskie",
+          "sets": 2,
+          "reps": 17
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-31",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 31-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "martwy ciąg",
+          "sets": 5,
+          "reps": 7,
+          "weight": 120
+        },
+        {
+          "name": "martwy ciąg",
+          "sets": 5,
+          "reps": 12,
+          "weight": 100
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-30",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 30-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "wyciskanie leżąc",
+          "sets": 3,
+          "reps": 10,
+          "weight": 120
+        },
+        {
+          "name": "wiosłowanie",
+          "sets": 4,
+          "reps": 12,
+          "weight": 60
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-29",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 29-05-2025",
+    "metrics": {
+      "duration_min": 65,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-28",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 28-05-2025",
+    "metrics": {
+      "distance_km": 33.34,
+      "duration_min": 70.79
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-27",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 27-05-2025",
+    "metrics": {
+      "duration_min": 76,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-26",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 26-05-2025",
+    "metrics": {
+      "distance_km": 10.53,
+      "duration_min": 68.12,
+      "calories_burned": 407
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-25",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 25-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "battle rope",
+          "duration_sec": 48,
+          "rounds": 5
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 55,
+          "rounds": 5
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 35,
+          "rounds": 2
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-24",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 24-05-2025",
+    "metrics": {
+      "laps": 35,
+      "distance_m": 1920,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-23",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 23-05-2025",
+    "metrics": {
+      "laps": 39,
+      "distance_m": 1512,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-22",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 22-05-2025",
+    "metrics": {
+      "laps": 35,
+      "distance_m": 891,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "date": "2025-05-21",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 21-05-2025",
+    "metrics": {
+      "distance_km": 14.19,
+      "duration_min": 34.14
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-06-01",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 01-06-2025",
+    "metrics": {
+      "distance_km": 33.16,
+      "duration_min": 68.36
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-31",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 31-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "podciąganie australijskie",
+          "sets": 2,
+          "reps": 10
+        },
+        {
+          "name": "mostek",
+          "sets": 2,
+          "reps": 18
+        },
+        {
+          "name": "mostek",
+          "sets": 3,
+          "reps": 18
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-30",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 30-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "podciąganie",
+          "sets": 3,
+          "reps": 12,
+          "weight": 80
+        },
+        {
+          "name": "martwy ciąg",
+          "sets": 3,
+          "reps": 6,
+          "weight": 60
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-29",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 29-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 12
+        },
+        {
+          "name": "dipy",
+          "sets": 3,
+          "reps": 19
+        },
+        {
+          "name": "pompki",
+          "sets": 4,
+          "reps": 16
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-28",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 28-05-2025",
+    "metrics": {
+      "duration_min": 45,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-27",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 27-05-2025",
+    "metrics": {
+      "laps": 36,
+      "distance_m": 1672,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-26",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 26-05-2025",
+    "metrics": {
+      "laps": 20,
+      "distance_m": 1916,
+      "stroke": "backstroke"
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-25",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 25-05-2025",
+    "metrics": {
+      "duration_min": 32,
+      "style": "vinyasa"
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-24",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 24-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "przysiady",
+          "sets": 5,
+          "reps": 12,
+          "weight": 120
+        },
+        {
+          "name": "podciąganie",
+          "sets": 3,
+          "reps": 8,
+          "weight": 60
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-23",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 23-05-2025",
+    "metrics": {
+      "duration_min": 62,
+      "style": "yin"
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-22",
+    "type": "kalistenika",
+    "notes": "Trening typu kalistenika w dniu 22-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "pompki",
+          "sets": 2,
+          "reps": 11
+        },
+        {
+          "name": "mostek",
+          "sets": 4,
+          "reps": 11
+        },
+        {
+          "name": "dipy",
+          "sets": 2,
+          "reps": 10
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "date": "2025-05-21",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 21-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "battle rope",
+          "duration_sec": 28,
+          "rounds": 5
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 51,
+          "rounds": 3
+        },
+        {
+          "name": "box jump",
+          "duration_sec": 21,
+          "rounds": 4
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-06-01",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 01-06-2025",
+    "metrics": {
+      "laps": 29,
+      "distance_m": 679,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-31",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 31-05-2025",
+    "metrics": {
+      "duration_min": 63,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-30",
+    "type": "yoga",
+    "notes": "Trening typu yoga w dniu 30-05-2025",
+    "metrics": {
+      "duration_min": 31,
+      "style": "hatha"
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-29",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 29-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 23,
+          "rounds": 2
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 35,
+          "rounds": 5
+        },
+        {
+          "name": "battle rope",
+          "duration_sec": 49,
+          "rounds": 3
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-28",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 28-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "battle rope",
+          "duration_sec": 20,
+          "rounds": 5
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 30,
+          "rounds": 5
+        },
+        {
+          "name": "box jump",
+          "duration_sec": 30,
+          "rounds": 5
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-27",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 27-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "burpees",
+          "duration_sec": 37,
+          "rounds": 2
+        },
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 31,
+          "rounds": 4
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 21,
+          "rounds": 5
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-26",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 26-05-2025",
+    "metrics": {
+      "distance_km": 16.84,
+      "duration_min": 36.24
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-25",
+    "type": "rower",
+    "notes": "Trening typu rower w dniu 25-05-2025",
+    "metrics": {
+      "distance_km": 5.59,
+      "duration_min": 14.62
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-24",
+    "type": "trening funkcjonalny",
+    "notes": "Trening typu trening funkcjonalny w dniu 24-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "kettlebell swing",
+          "duration_sec": 46,
+          "rounds": 4
+        },
+        {
+          "name": "box jump",
+          "duration_sec": 59,
+          "rounds": 5
+        },
+        {
+          "name": "burpees",
+          "duration_sec": 37,
+          "rounds": 4
+        }
+      ]
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-23",
+    "type": "pływanie",
+    "notes": "Trening typu pływanie w dniu 23-05-2025",
+    "metrics": {
+      "laps": 34,
+      "distance_m": 1893,
+      "stroke": "breaststroke"
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-22",
+    "type": "bieganie",
+    "notes": "Trening typu bieganie w dniu 22-05-2025",
+    "metrics": {
+      "distance_km": 7.26,
+      "duration_min": 37.2,
+      "calories_burned": 308
+    }
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "date": "2025-05-21",
+    "type": "siłownia",
+    "notes": "Trening typu siłownia w dniu 21-05-2025",
+    "metrics": {
+      "exercises": [
+        {
+          "name": "martwy ciąg",
+          "sets": 3,
+          "reps": 6,
+          "weight": 60
+        },
+        {
+          "name": "podciąganie",
+          "sets": 3,
+          "reps": 9,
+          "weight": 120
+        }
+      ]
+    }
+  }
+]

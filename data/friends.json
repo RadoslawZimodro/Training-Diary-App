@@ -1,0 +1,80 @@
+[
+  {
+    "user_id": "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+    "friends": [
+      "edf89f89-dd20-44d5-831d-0a99e513d928",
+      "95bd8bdc-b270-498a-b695-a53c187f9c73"
+    ]
+  },
+  {
+    "user_id": "49d994b5-83b8-435d-9354-9f9f475dd825",
+    "friends": [
+      "95bd8bdc-b270-498a-b695-a53c187f9c73",
+      "ea7e65e1-ed41-498e-bfa7-13044ce76a9c"
+    ]
+  },
+  {
+    "user_id": "8ee2208d-59a2-4397-835d-4e82ffa09bcb",
+    "friends": [
+      "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+      "ba59f534-ecfe-4f8e-85d7-cb1a291df116"
+    ]
+  },
+  {
+    "user_id": "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+    "friends": [
+      "ea7e65e1-ed41-498e-bfa7-13044ce76a9c",
+      "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+      "95bd8bdc-b270-498a-b695-a53c187f9c73"
+    ]
+  },
+  {
+    "user_id": "c5496108-123c-4a64-81a2-af3761400947",
+    "friends": [
+      "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+      "ea7e65e1-ed41-498e-bfa7-13044ce76a9c"
+    ]
+  },
+  {
+    "user_id": "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+    "friends": [
+      "edf89f89-dd20-44d5-831d-0a99e513d928",
+      "49d994b5-83b8-435d-9354-9f9f475dd825",
+      "95bd8bdc-b270-498a-b695-a53c187f9c73",
+      "ea7e65e1-ed41-498e-bfa7-13044ce76a9c"
+    ]
+  },
+  {
+    "user_id": "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+    "friends": [
+      "c5496108-123c-4a64-81a2-af3761400947",
+      "49d994b5-83b8-435d-9354-9f9f475dd825",
+      "ba59f534-ecfe-4f8e-85d7-cb1a291df116"
+    ]
+  },
+  {
+    "user_id": "edf89f89-dd20-44d5-831d-0a99e513d928",
+    "friends": [
+      "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+      "95bd8bdc-b270-498a-b695-a53c187f9c73",
+      "ba59f534-ecfe-4f8e-85d7-cb1a291df116",
+      "cd61c56e-7520-46d1-a1a1-2fa535f31aa1"
+    ]
+  },
+  {
+    "user_id": "95bd8bdc-b270-498a-b695-a53c187f9c73",
+    "friends": [
+      "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+      "1d38bdc7-3c72-4b06-aca5-e5c551dd21ec",
+      "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+      "c5496108-123c-4a64-81a2-af3761400947"
+    ]
+  },
+  {
+    "user_id": "cd61c56e-7520-46d1-a1a1-2fa535f31aa1",
+    "friends": [
+      "7a54bb30-39f1-4fd7-99b0-c4100663a6ce",
+      "ba59f534-ecfe-4f8e-85d7-cb1a291df116"
+    ]
+  }
+]
